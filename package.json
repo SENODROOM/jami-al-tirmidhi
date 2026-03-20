@@ -1,6 +1,6 @@
 {
   "name": "jami-al-tirmidhi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Complete Jami al-Tirmidhi. Offline-first, zero dependencies. CLI + Node + React/Vue/Vite.",
   "type": "module",
   "main": "./src/index.cjs",
